@@ -1,4 +1,4 @@
-### 데이터사이언스방법론_R 프로젝트 기초
+### R 프로젝트 기초
 
 ## 1. object
 #  - scalar, vector, matrix, list, other object 등 다양한 종류 포함 가능.
